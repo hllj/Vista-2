@@ -1,0 +1,11 @@
+.DS_Store
+.mypy_cache/
+.ruff_cache/
+__pycache__/
+*.sh
+venv/
+session_output/
+*.png
+*.html
+*.pdf
+selected_personas.txt
